@@ -1,5 +1,5 @@
 ## Timeline ! [Clock Image]
-https://github.com/TataBou/testing-timeline/blob/main/clock.png?raw=true
+https://github.com/TataBou/testing-timeline/blob/main/clock.png
 ### 2000
 - Event 1
 - Event 2
